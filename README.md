@@ -5,7 +5,7 @@
 
 # Piggy Metrics
 
-**A simple way to deal with personal finances**
+********A simple way to deal with personal finances***************
 
 This is a [proof-of-concept application](http://my-piggymetrics.rhcloud.com), which demonstrates [Microservice Architecture Pattern](http://martinfowler.com/microservices/) using Spring Boot, Spring Cloud and Docker.
 With a pretty neat user interface, by the way.
